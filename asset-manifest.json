@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Challenges-app/static/css/main.fb070815.css",
-    "main.js": "/Challenges-app/static/js/main.b707b5e3.js",
+    "main.js": "/Challenges-app/static/js/main.ba296771.js",
     "static/js/787.292f7c2c.chunk.js": "/Challenges-app/static/js/787.292f7c2c.chunk.js",
     "index.html": "/Challenges-app/index.html",
     "main.fb070815.css.map": "/Challenges-app/static/css/main.fb070815.css.map",
-    "main.b707b5e3.js.map": "/Challenges-app/static/js/main.b707b5e3.js.map",
+    "main.ba296771.js.map": "/Challenges-app/static/js/main.ba296771.js.map",
     "787.292f7c2c.chunk.js.map": "/Challenges-app/static/js/787.292f7c2c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fb070815.css",
-    "static/js/main.b707b5e3.js"
+    "static/js/main.ba296771.js"
   ]
 }
